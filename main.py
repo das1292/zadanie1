@@ -51,3 +51,25 @@ from math import *
 # print (min(3,55))
 # print (max(4,80))
 #Zad5
+# imie= "JAKUB"
+# nazwisko= "KLOS"
+# print(imie.capitalize() + nazwisko.capitalize())
+#Zad6
+# tekst = ['xd', 'xd', 'xd', 'xd', 'xd', 'xd', 'lalal', 'lalal', 'lalal', 'lalal', 'lalal', 'lalal', 'lalal', 'lalal', 'lalal', 'lalal', 'lalal', 'lalal', 'lalal']
+# ile = tekst.count("xd")
+# print(ile)
+#Zad7
+# imie='Jakub'
+# druga=imie[1]
+# ostatnia=imie[len(imie)-1]
+# print(druga)
+# print(ostatnia)
+#Zad8
+# tekst = "xd xd xd xd xd xd lalal lalal lalal lalal lalal lalal lalal lalal lalal lalal lalal lalal lalal"
+# x = tekst.split()
+# print(x)
+#Zad9
+# print("Cos")
+# print(float(13.37))
+# licz = 123
+# print(licz, '=', hex(licz))
