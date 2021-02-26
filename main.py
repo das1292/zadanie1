@@ -42,11 +42,12 @@ from math import *
 # print(e)
 # print(f)
 #Zad4
-e= exp(1)
-e**=10
-print(e)
-x=(log(5 + sin(8)**2))
-c=pow(x,1/6)
-print(c)
-print (min(3,55))
-print (max(4,80))
+# e= exp(1)
+# e**=10
+# print(e)
+# x=(log(5 + sin(8)**2))
+# c=pow(x,1/6)
+# print(c)
+# print (min(3,55))
+# print (max(4,80))
+#Zad5
